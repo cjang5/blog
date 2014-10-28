@@ -382,7 +382,7 @@ form .row:first-child .floating-label-form-group {
 ::selection {
   color: white;
   text-shadow: none;
-  background: #ffea00;
+  background: #ffd800;
 }
 img::selection {
   color: white;
