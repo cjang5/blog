@@ -1,2 +1,12 @@
-_site
+# ignore these folders
+_site/
 node_modules
+
+#ignore all files with these extensions
+.*.swp #all the temporary files from gvim
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
