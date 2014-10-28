@@ -1,7 +1,3 @@
-::selection {
-    background: yellow;
-}
-
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
@@ -381,12 +377,12 @@ form .row:first-child .floating-label-form-group {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: yellow;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #ffea00;
 }
 img::selection {
   color: white;
