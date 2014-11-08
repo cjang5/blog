@@ -17,9 +17,9 @@ header-img: "img/posts/post-02/post-02-bg.png"
 
 <p>So I didn't have much trouble with this lab, I used a binary search instead of linear in both insertion_idx and insert, and for find I just needed to write a few lines, an if statement containing a recursive call to find. The problem was in split_child. I wasn't sure what to do with all the iterators we were given, but in the end I looked up the documentation and figured it out. It turns out that the iterators for vectors ".begin()" and ".end()" are quite different. .begin() will return the very first element, and .end() will return one *past* the end. So I had to fix a couple off-by-one errors in my code. </p>
 
-<p>//assign elements to the new_right node
-new_right->elements.assign(mid_elem_itr + 1, child->elements.end());
-new_right->children.assign(mid_child_itr, child->children.end()); </p>
+    //assign elements to the new_right node
+    new_right->elements.assign(mid_elem_itr + 1, child->elements.end());
+    new_right->children.assign(mid_child_itr, child->children.end());
 
 
 <p>I also discovered in the docs the 'erase' function for vector elements, and appropriately called this on the old median node in the child to be split, and thus completing the split.</p>
