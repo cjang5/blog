@@ -24,8 +24,6 @@ header-img: "img/posts/post-02/post-02-bg.png"
 
 <p>I also discovered in the docs the 'erase' function for vector elements, and appropriately called this on the old median node in the child to be split, and thus completing the split.</p>
 
-```
-parent->children.erase(child_itr + 1);
-```
+    parent->children.erase(child_itr + 1);
 
 <p> All in all, it was a fun lab, and I learned (a lot) about iterators and how they work in C++. And to actually implement B-Trees was cool. I look forward to learning more data structures. Today we started learning about hash tables, and those were also really cool. Maybe I'll post about those once we have a lab about them! See you guys next time.</p>
