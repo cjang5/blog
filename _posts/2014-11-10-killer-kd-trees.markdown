@@ -7,7 +7,7 @@ author:     "Chris Jang"
 header-img: "img/posts/post-03/post-03-bg.png"
 ---
 
-<img src="img/posts/post-03/post-03-monad.png">
+<img class="img-responsive" src="{{ site.baseurl }}/img/posts/post-03/post-03-monad.png" align="middle">
 
 <p> It's a beautiful sight, isn't it? Well, it is to me. Those successful test cases for part one of my sixth MP for my Data Structures class is sweet relief to my brain and eyes. I've been working on this for a few days now, and I've been wracked with a plethora of problems, ranging from Segfaults to Out-of-bounds errors, to just straight up incorrect construction of the trees. </p>
 
