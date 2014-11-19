@@ -8,6 +8,7 @@ header-img: "img/posts/post-04/post-04-bg.png"
 ---
 <p align="center"> Original Image </p>
 <img class="img-responsive" src="{{ site.baseurl }}/img/posts/post-04/tesla-model-s.png" align="middle">
+
 <p align="center"> Mosaic-ified Image* </p>
 <img class="img-responsive" src="{{ site.baseurl }}/img/posts/post-04/tesla-model-s-mosaic.png" align="middle">
 
@@ -21,4 +22,4 @@ header-img: "img/posts/post-04/post-04-bg.png"
 
 <p> That's all for now, I'll see you guys in the next post! </p>
 
-<p> * *-The actual image was 8000 by 4000 or something huge, I had to make it much smaller for the blog!* </p>
+<p> *-The actual image was 8000 by 4000 or something huge, I had to make it much smaller for the blog!* </p>
