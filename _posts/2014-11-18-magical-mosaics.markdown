@@ -22,4 +22,4 @@ header-img: "img/posts/post-04/post-04-bg.png"
 
 <p> That's all for now, I'll see you guys in the next post! </p>
 
-<p style="italic"> *-The actual image was 8000 by 4000 or something huge, I had to make it much smaller for the blog!* </p>
+<p> <i>*-The actual image was 8000 by 4000 or something huge, I had to make it much smaller for the blog!</i> </p>
