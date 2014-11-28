@@ -2,7 +2,7 @@
 layout:     post
 title:      "Trip Home Made Awesome"
 subtitle:   "I met someone on my way home for Thanksgiving..."
-date:       2014-11-22 08:47:00
+date:       2014-11-22 8:47:00
 author:     "Chris Jang"
 header-img: "img/posts/post-05/post-05-bg.png"
 ---
