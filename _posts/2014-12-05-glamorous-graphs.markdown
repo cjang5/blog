@@ -13,7 +13,7 @@ header-img: "img/posts/post-06/post-06-bg.png"
 
 <p> Those are the graphs when all their vertices and edges are labeled "UNVISITED" or "UNEXPLORED". If you put different labels on them like "DISCOVERY" or "VISITED" they will have different colors. For example, one of the functions I implemented was to find the minimum path from a given vertex 'start' to another given vertex 'end'. I used the BFS algorithm to traverse the tree, but I also kept track of each vertex's distance from the 'start' Vertex, as well as each Vertex's predecessor. After the traversal was finished I just worked my way up through the predecessor vector starting from the 'end' Vertex and going to the 'start' vertex, and labeling those corresponding edges with "MINPATH", which will make them blue, as you can see below. </p>
 
-<img class="img-responsive" src="{{ site.baseurl }}/img/posts/post-06/shortest-path-europe.png" align="middle">
+<img class="img-responsive" src="{{ site.baseurl }}/img/posts/post-06/shortest-path-europe.png" align="center">
 
 <p>Here's the same function but for the US graph. It finds the shortest path from Washington DC to Kansas City:</p>
 
