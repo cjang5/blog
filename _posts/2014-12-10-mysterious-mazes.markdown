@@ -52,3 +52,7 @@ header-img: "img/posts/post-07/post-07-bg.png"
 <img src="{{ site.baseurl }}/img/posts/post-07/solved1.png" style="float: left; width: 30%; margin-left: 2%; margin-right: 3%; margin-bottom: 0.5em;">
 <img src="{{ site.baseurl }}/img/posts/post-07/solved2.png" style="float: left; width: 30%; margin-right: 3%; margin-bottom: 0.5em;">
 <img src="{{ site.baseurl }}/img/posts/post-07/solved3.png" style="float: left; width: 30%; margin-right: 0%; margin-bottom: 0.5em;">
+
+<h2>Conclusion</h2>
+
+<p>So in conclusion, it was a really fun problem to solve in my class. We were given virtually complete freedom to implement the maze and its solver and it took me probably 1000+ lines to create. I have even been entertaining ideas of turning this into a game and possibly creating a web applet so you guys can play! The way it would work would be just to create different visualizations of each maze corridor, and keeping track of where you are in the maze. I'll let you guys know how that comes along, but until next time!</p>
