@@ -16,10 +16,16 @@ header-img: "img/posts/post-07/post-07-bg.png"
     //create the maze
     makeMaze(10, 10);
     
-<p>would generate a maze that might look like the ones below: </p>
+<p>would first create a 10 by 10 grid to work with: </p>
+
+<img src="{{ site.baseurl }}/img/posts/post-07/grid.png" style="float: center; width: 50%; margin-left: 2%; margin-right: 3%; margin-bottom: 0.5em;">
+
+
 
 <img src="{{ site.baseurl }}/img/posts/post-07/unsolved1.png" style="float: left; width: 30%; margin-left: 2%; margin-right: 3%; margin-bottom: 0.5em;">
 <img src="{{ site.baseurl }}/img/posts/post-07/unsolved2.png" style="float: left; width: 30%; margin-right: 3%; margin-bottom: 0.5em;">
 <img src="{{ site.baseurl }}/img/posts/post-07/unsolved3.png" style="float: left; width: 30%; margin-right: 0%; margin-bottom: 0.5em;">
 
 <p style="clear: both;"></p>
+
+<p>You might have noticed that the mazes have entraces at the top left corner, but no exit. This is intentional. We will create an exit as part of the solving algorithm. Of course we could make this vary, but we look for the longest path possible to place the exit.</p>
