@@ -51,7 +51,7 @@ header-img: "img/posts/post-07/post-07-bg.png"
 
 <img src="{{ site.baseurl }}/img/posts/post-07/solved1.png" style="float: left; width: 30%; margin-left: 2%; margin-right: 3%; margin-bottom: 0.5em;">
 <img src="{{ site.baseurl }}/img/posts/post-07/solved2.png" style="float: left; width: 30%; margin-right: 3%; margin-bottom: 0.5em;">
-<img src="{{ site.baseurl }}/img/posts/post-07/solved3.png" style="float: left; width: 30%; margin-right: 0%; margin-bottom: 0.5em;">
+<img src="{{ site.baseurl }}/img/posts/post-07/solved3.png" style="float: left; width: 30%; margin-right: 0%; margin-bottom: 1em;">
 
 <p style="clear: both;"></p>
 
