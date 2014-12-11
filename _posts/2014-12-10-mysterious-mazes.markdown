@@ -18,7 +18,7 @@ header-img: "img/posts/post-07/post-07-bg.png"
     
 <p>would first create a 10 by 10 grid to work with: </p>
 
-<img src="{{ site.baseurl }}/img/posts/post-07/grid.png" align="center" style="float: center; width: 40%; margin-left: 20%; margin-bottom: 0.5em;">
+<img src="{{ site.baseurl }}/img/posts/post-07/grid.png" align="center" style="float: center; width: 40%; margin-left: 35%; margin-bottom: 0.5em;">
 
 
 
