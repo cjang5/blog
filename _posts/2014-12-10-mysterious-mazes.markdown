@@ -16,7 +16,8 @@ header-img: "img/posts/post-07/post-07-bg.png"
     //create the maze
     makeMaze(10, 10);
     
-<p>would generate a maze that might look like the ones below:
-<img class="img-responsive" src="{{ site.baseurl }}/img/posts/post-07/unsolved1.png" style="width:200px" align="left">
-<img class="img-responsive" src="{{ site.baseurl }}/img/posts/post-07/unsolved2.png" style="width:200px" align="center">
-<img class="img-responsive" src="{{ site.baseurl }}/img/posts/post-07/unsolved3.png" style="width:200px" align="right"></p>
+<p>would generate a maze that might look like the ones below: </p>
+
+<img src="{{ site.baseurl }}/img/posts/post-07/unsolved1.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="{{ site.baseurl }}/img/posts/post-07/unsolved2.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="{{ site.baseurl }}/img/posts/post-07/unsolved3.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
