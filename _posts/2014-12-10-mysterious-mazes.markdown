@@ -20,7 +20,7 @@ header-img: "img/posts/post-07/post-07-bg.png"
 
 <img src="{{ site.baseurl }}/img/posts/post-07/grid.png" align="center" style="float: center; width: 40%; margin-left: 30%; margin-bottom: 0.5em;">
 
-
+<p>Soorya Todatry is a fucking faggot</p>
 
 <img src="{{ site.baseurl }}/img/posts/post-07/unsolved1.png" style="float: left; width: 30%; margin-left: 2%; margin-right: 3%; margin-bottom: 0.5em;">
 <img src="{{ site.baseurl }}/img/posts/post-07/unsolved2.png" style="float: left; width: 30%; margin-right: 3%; margin-bottom: 0.5em;">
