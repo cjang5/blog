@@ -18,8 +18,8 @@ header-img: "img/posts/post-07/post-07-bg.png"
     
 <p>would generate a maze that might look like the ones below: </p>
 
-<img src="{{ site.baseurl }}/img/posts/post-07/unsolved1.png" style="float: left; width: 30%; margin-right: 2%; margin-bottom: 0.5em;">
-<img src="{{ site.baseurl }}/img/posts/post-07/unsolved2.png" style="float: left; width: 30%; margin-right: 2%; margin-bottom: 0.5em;">
-<img src="{{ site.baseurl }}/img/posts/post-07/unsolved3.png" style="float: left; width: 30%; margin-right: 2%; margin-bottom: 0.5em;">
+<img src="{{ site.baseurl }}/img/posts/post-07/unsolved1.png" style="float: left; width: 30%; margin-right: 3%; margin-bottom: 0.5em;">
+<img src="{{ site.baseurl }}/img/posts/post-07/unsolved2.png" style="float: left; width: 30%; margin-right: 3%; margin-bottom: 0.5em;">
+<img src="{{ site.baseurl }}/img/posts/post-07/unsolved3.png" style="float: left; width: 30%; margin-right: 0%; margin-bottom: 0.5em;">
 
 <p style="clear: both;"></p>
