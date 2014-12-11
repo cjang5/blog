@@ -20,7 +20,9 @@ header-img: "img/posts/post-07/post-07-bg.png"
 
 <img src="{{ site.baseurl }}/img/posts/post-07/grid.png" align="center" style="float: center; width: 40%; margin-left: 30%; margin-bottom: 0.5em;">
 
-<p>Soorya Todatry is a fucking faggot</p>
+<p>The next part is where we use a little style to make it "random". We first use a could standard library algorithms, like std::shuffle. Instead of creating a 2D vector to represent the Cells in the grid, we use a 1D vector, and just wrap around if we get to the end of a row. So it would look like this: </p>
+
+<img src="{{ site.baseurl }}/img/posts/post-07/1dvector.png" align="center" style="float: center; width: 40%; margin-left: 30%; margin-bottom: 0.5em;">
 
 <img src="{{ site.baseurl }}/img/posts/post-07/unsolved1.png" style="float: left; width: 30%; margin-left: 2%; margin-right: 3%; margin-bottom: 0.5em;">
 <img src="{{ site.baseurl }}/img/posts/post-07/unsolved2.png" style="float: left; width: 30%; margin-right: 3%; margin-bottom: 0.5em;">
